@@ -22,8 +22,7 @@ During this project I learned to use:
  * Bootstraps carousel slideshow
  * git
  
-I have enjoyed learning Angular 4 and Typescript. I find that Angular4 makes a fast and responsive UI. It was easy enough to 
-learn but I know I could get a deeper understanding.  I liked that Typescript helped to resolves the type coercion errors that can be found in javascript. And I really liked the use of typescript classes and constructor functions, instead of the javascripts prototypes. 
+I have enjoyed learning Angular 4 and Typescript. I find that Angular 4 makes a fast and responsive UI. It was easy enough to learn but I know I could get a deeper understanding.  I liked that Typescript helped to resolves the type coercion errors that can be found in javascript. And I really liked the use of typescript classes and constructor functions, instead of the javascripts prototypes. 
 
 ### How to Run
  1. Clone the repository
