@@ -1,0 +1,16 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Food</th>
+      <th>#</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let guest of guests">
+      <td>{{guest.name}}</td>
+      <td>{{guest.dish}}</td>
+      <td>{{guest.amount}}</td>
+    </tr>
+  </tbody>
+</table>
