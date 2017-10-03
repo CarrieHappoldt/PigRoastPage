@@ -1,6 +1,7 @@
 # PigRoastPage
 
-A simple Angular4 web app, for our families annul Pig Roast
+A simple Angular4 web app, for our families annual Pig Roast
+
 ##### Start using the app at localhost:8080     
 
 ### Techniques Used
