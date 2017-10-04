@@ -28,7 +28,7 @@ I have enjoyed learning Angular 4 and Typescript. I find that Angular 4 makes a 
 ### How to Run
  1. Clone the repository
  2. `npm install`
- 3. `ng server --port: 8080`
+ 3. `npm start`
  4. `open http://localhost:8080`
 
 ### To Do
