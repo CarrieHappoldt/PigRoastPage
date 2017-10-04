@@ -19,7 +19,6 @@ export class AppComponent{
   guestTotal: number = 12;
 
   onAddToList(guest: Guest){
-    console.log(guest)
     this.guestTotal = this.guestTotal + Number.parseInt(guest.amount.toString());
     this.guests.unshift(guest)
   }
